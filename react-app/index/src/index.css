@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f4f4f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+code {
+  font-family: 'Courier Prime', Courier, monospace;
+  background: #282c34;
+  color: #61dafb;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+}
